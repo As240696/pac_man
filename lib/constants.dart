@@ -1,14 +1,7 @@
 int numberOfColumns = 11;
 int numberOfSquares = numberOfColumns * 17;
-int player = 166;
-String direction = "Right";
-String enemy1Direction = 'left';
-String enemy2Direction = 'down';
-String enemy3Direction = 'right';
 int score = 0;
-int enemy1 = 20;
-int enemy2 = 119;
-int enemy3 = 88;
+
 List<int> map = [
   0,
   1,
